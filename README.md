@@ -12,6 +12,9 @@ card.
 -Jar file:
     opencsv-1.8.jar 
     
+-Testing scenarios Screenshots
+    Testing Screenshots.docx
+    
 -Input file:    
     taps.csv
     
